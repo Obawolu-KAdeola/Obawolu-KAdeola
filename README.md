@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Obawolu-KAdeola
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning GITLAB
-- 💞️ I’m looking to collaborate on Github
+- 👀 I’m interested in Data Analyst projects
+- 🌱 I’m currently learning with Project networks
+- 💞️ I’m looking to role as Data Analyst
 - 📫 How to reach me kobawoluf95@gmail.com
 
 <!---
